@@ -4,7 +4,7 @@
 <img width="80%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugacurtain&layout=donut&langs_count=3&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000&custom_title=Belugacurtain-Project&border_radius=10"/>
 
 # 🔨 SI Project 2020 ~ Layout 🔨
-<p>
+<p style="border:3px solid #ffb02e;padding:25px 0px">
   <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/tour/main.html" target="_blank"><img src="thumb08.jpg" width="24%" /></a>
   <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/www/main.html" target="_blank"><img src="thumb07.jpg" width="24%" /></a>
   <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/youth/main.html" target="_blank"><img src="thumb06.jpg" width="24%" /></a>
