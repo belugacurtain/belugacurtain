@@ -1,4 +1,5 @@
 <img width="100%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbelugacurtain&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Hello&flat=true"/>
+
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugacurtain&layout=donut&langs_count=3&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000&custom_title=Belugacurtain Project&border_radius=10" />
 
 <h2 align="center">💻 Develop Tech</h2>
