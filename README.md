@@ -5,14 +5,14 @@
 
 # 🔨 SI Project 2020 ~ Layout 🔨
 <p>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2023oc/site/tour/main.html" target="_blank"><img src="thumb08.jpg" width="24%" /></a>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2023oc/site/www/main.html" target="_blank"><img src="thumb07.jpg" width="24%" /></a>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2023oc/site/youth/main.html" target="_blank"><img src="thumb06.jpg" width="24%" /></a>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2022guri/site/gbv/main.html" target="_blank"><img src="thumb05.jpg" width="24%" /></a>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2023nyj/site/eng/main.html"><img src="thumb04.jpg" width="24%" /></a>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2023tta/site/edu/main.html"><img src="thumb03.jpg" width="24%" /></a>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2022hsg/site/tour/main.html"><img src="thumb02.jpg" width="24%" /></a>
-  <a target="_blank" href="https://belugacurtain.github.io/project/2022midongsan/site/midongsan/main.html"><img src="thumb01.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/tour/main.html" target="_blank"><img src="thumb08.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/www/main.html" target="_blank"><img src="thumb07.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/youth/main.html" target="_blank"><img src="thumb06.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2022guri/site/gbv/main.html" target="_blank"><img src="thumb05.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023nyj/site/eng/main.html"><img src="thumb04.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023tta/site/edu/main.html"><img src="thumb03.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2022hsg/site/tour/main.html"><img src="thumb02.jpg" width="24%" /></a>
+  <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2022midongsan/site/midongsan/main.html"><img src="thumb01.jpg" width="24%" /></a>
 </p>
 
 # [🧐 MORE 🧐](https://github.com/belugacurtain/project?tab=readme-ov-file#readme)
