@@ -14,12 +14,13 @@
   <a target="_blank" href="https://belugacurtain.github.io/project/2022hsg/site/tour/main.html"><img src="thumb02.jpg" width="24%" /></a>
   <a target="_blank" href="https://belugacurtain.github.io/project/2022midongsan/site/midongsan/main.html"><img src="thumb01.jpg" width="24%" /></a>
 </p>
-<a target="_blank" href="https://github.com/belugacurtain/project" style="font-size:2em;color:#fff;font-weight:bold;text-decoration:underline;">MORE</a>
 
-## :computer: Develop Tech
+# [🧐 MORE 🧐](https://belugacurtain.github.io/project/2023oc/site/public/sub.html)
+
+## :computer: Develop Tech :computer:
 <img src="https://img.shields.io/badge/HTML-000000?style=round&amp;logo=HTML5&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/CSS-000000?style=round&amp;logo=CSS3&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/SCSS-000000?style=round&amp;logo=SASS&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/JQuery-000000?style=round&amp;logo=JQuery&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/JS-000000?style=flat-round&amp;logo=JavaScript&amp;logoColor=white&amp;"/>
 
-## :art: Design Tech
+## :art: Design Tech :art:
 <img src="https://img.shields.io/badge/PhotoShop-000000?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/Blender-000000?style=flat-square&amp;logo=Blender&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/AdobeXD-000000?style=flat-square&amp;logo=Adobe XD&amp;logoColor=white&amp;"/>
 
 
