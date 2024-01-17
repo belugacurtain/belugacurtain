@@ -5,14 +5,14 @@
 
 ## 🔨 SI Project Layout 🔨
 <p style="text-align:center">
-  <a href="https://belugacurtain.github.io/project/2023oc/site/tour/main.html" target="_blank"><img src="thumb08.jpg" width="24%" style="border-radius:50px 0 0 0" /></a>
+  <a href="https://belugacurtain.github.io/project/2023oc/site/tour/main.html" target="_blank"><img src="thumb08.jpg" width="24%" /></a>
   <a href="https://belugacurtain.github.io/project/2023oc/site/www/main.html" target="_blank"><img src="thumb07.jpg" width="24%" /></a>
   <a href="https://belugacurtain.github.io/project/2023oc/site/youth/main.html" target="_blank"><img src="thumb06.jpg" width="24%" /></a>
-  <a href="https://belugacurtain.github.io/project/2022guri/site/gbv/main.html" target="_blank"><img src="thumb05.jpg" width="24%" style="border-radius:0 50px 0 0" /></a>
-  <a href="https://belugacurtain.github.io/project/2023nyj/site/eng/main.html"><img src="thumb04.jpg" width="24%" style="border-radius:0 0 0 50px" /></a>
+  <a href="https://belugacurtain.github.io/project/2022guri/site/gbv/main.html" target="_blank"><img src="thumb05.jpg" width="24%" /></a>
+  <a href="https://belugacurtain.github.io/project/2023nyj/site/eng/main.html"><img src="thumb04.jpg" width="24%" /></a>
   <a href="https://belugacurtain.github.io/project/2023tta/site/edu/main.html"><img src="thumb03.jpg" width="24%" /></a>
   <a href="https://belugacurtain.github.io/project/2022hsg/site/tour/main.html"><img src="thumb02.jpg" width="24%" /></a>
-  <a href="https://belugacurtain.github.io/project/2022midongsan/site/midongsan/main.html"><img src="thumb01.jpg" width="24%" style="border-radius:0 0 50px 0" /></a>
+  <a href="https://belugacurtain.github.io/project/2022midongsan/site/midongsan/main.html"><img src="thumb01.jpg" width="24%" /></a>
 </p>
 
 ## :computer: Develop Tech
