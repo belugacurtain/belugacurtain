@@ -15,7 +15,7 @@
   <a target="_blank" href="https://belugacurtain.github.io/project/2022midongsan/site/midongsan/main.html"><img src="thumb01.jpg" width="24%" /></a>
 </p>
 
-# [🧐 MORE 🧐](https://belugacurtain.github.io/project/2023oc/site/public/sub.html)
+# [🧐 MORE 🧐](https://github.com/belugacurtain/project?tab=readme-ov-file#readme)
 
 ## :computer: Develop Tech :computer:
 <img src="https://img.shields.io/badge/HTML-000000?style=round&amp;logo=HTML5&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/CSS-000000?style=round&amp;logo=CSS3&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/SCSS-000000?style=round&amp;logo=SASS&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/JQuery-000000?style=round&amp;logo=JQuery&amp;logoColor=white&amp;"/><img src="https://img.shields.io/badge/JS-000000?style=flat-round&amp;logo=JavaScript&amp;logoColor=white&amp;"/>
