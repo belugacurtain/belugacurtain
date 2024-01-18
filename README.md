@@ -21,21 +21,21 @@
 
 ![header](https://capsule-render.vercel.app/api?text=😏Introduce🫠&type=egg&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&fontSize=60)
 
-# Birth 🐶 1994. 10. 11 🥳
-## Favorite Food : 🍜☕🍎 Hobby : 🎧🎤🏊‍♂️ Interest : 💸📈 MBTI : ESTJ🙄
+## Birth 🐶 1994. 10. 11 🥳
+### Favorite Food : 🍜☕🍎 Hobby : 🎧🎤🏊‍♂️ Interest : 💸📈 MBTI : ESTJ🙄
 
 <p>
     <img width="70%" src="PhotoView2.jpg" />
 </p>
 
-# Contact
-<a title="Contact Instagram" href="https://www.instagram.com/gunami/"><img height="40" src="https://img.shields.io/badge/INSTAGRAM-000000?style=round&amp;logo=INSTAGRAM&amp;logoColor=white&amp;"/></a>
+## Contact
+<a title="Contact Instagram" href="https://www.instagram.com/gunami/"><img height="25" src="https://img.shields.io/badge/INSTAGRAM-000000?style=round&amp;logo=INSTAGRAM&amp;logoColor=white&amp;"/></a>
 
-# :computer: Develop Tech :computer:
-<img height="40" src="https://img.shields.io/badge/HTML-000000?style=round&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img height="40" src="https://img.shields.io/badge/CSS-000000?style=round&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img height="40" src="https://img.shields.io/badge/SCSS-000000?style=round&amp;logo=SASS&amp;logoColor=white&amp;"/> <img height="40" src="https://img.shields.io/badge/JQuery-000000?style=round&amp;logo=JQuery&amp;logoColor=white&amp;"/> <img height="40" src="https://img.shields.io/badge/JS-000000?style=flat-round&amp;logo=JavaScript&amp;logoColor=white&amp;"/>
+## :computer: Develop Tech :computer:
+<img height="25" src="https://img.shields.io/badge/HTML-000000?style=round&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img height="25" src="https://img.shields.io/badge/CSS-000000?style=round&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img height="25" src="https://img.shields.io/badge/SCSS-000000?style=round&amp;logo=SASS&amp;logoColor=white&amp;"/> <img height="25" src="https://img.shields.io/badge/JQuery-000000?style=round&amp;logo=JQuery&amp;logoColor=white&amp;"/> <img height="25" src="https://img.shields.io/badge/JS-000000?style=flat-round&amp;logo=JavaScript&amp;logoColor=white&amp;"/>
 
-# :art: Design Tech :art:
-<img height="40" src="https://img.shields.io/badge/PhotoShop-FFFFFF?style=round&amp;logo=Adobe Photoshop&amp;logoColor=black&amp;"/> <img height="40" src="https://img.shields.io/badge/Blender-FFFFFF?style=round&amp;logo=Blender&amp;logoColor=black&amp;"/> <img height="40" src="https://img.shields.io/badge/AdobeXD-FFFFFF?style=round&amp;logo=Adobe XD&amp;logoColor=black&amp;"/>
+## :art: Design Tech :art:
+<img height="25" src="https://img.shields.io/badge/PhotoShop-FFFFFF?style=round&amp;logo=Adobe Photoshop&amp;logoColor=black&amp;"/> <img height="25" src="https://img.shields.io/badge/Blender-FFFFFF?style=round&amp;logo=Blender&amp;logoColor=black&amp;"/> <img height="25" src="https://img.shields.io/badge/AdobeXD-FFFFFF?style=round&amp;logo=Adobe XD&amp;logoColor=black&amp;"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&section=footer)
 
