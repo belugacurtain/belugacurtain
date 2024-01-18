@@ -19,7 +19,7 @@
 <br/>
 <br/>
 
-![header](https://capsule-render.vercel.app/api?text=😏Introduce🫠&type=egg&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&fontSize=60)
+![header](https://capsule-render.vercel.app/api?text=😏Introduce🫠&type=egg&height=150&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&fontSize=60)
 
 ## Birth 🐶 1994. 10. 11 🥳
 ### Favorite Food : 🍜☕🍎 Hobby : 🎧🎤🏊‍♂️ Interest : 💸📈 MBTI : ESTJ🙄
@@ -37,6 +37,6 @@
 ## :art: Design Tech :art:
 <img height="25" src="https://img.shields.io/badge/PhotoShop-FFFFFF?style=round&amp;logo=Adobe Photoshop&amp;logoColor=black&amp;"/> <img height="25" src="https://img.shields.io/badge/Blender-FFFFFF?style=round&amp;logo=Blender&amp;logoColor=black&amp;"/> <img height="25" src="https://img.shields.io/badge/AdobeXD-FFFFFF?style=round&amp;logo=Adobe XD&amp;logoColor=black&amp;"/> <img height="25" src="https://img.shields.io/badge/Dreamweaver-FFFFFF?style=round&amp;logo=Adobe Dreamweaver&amp;logoColor=black&amp;"/>
 
-![footer](https://capsule-render.vercel.app/api?type=egg&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=egg&height=150&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&section=footer)
 
 </div>
