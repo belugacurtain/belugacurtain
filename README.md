@@ -26,13 +26,14 @@
 </p>
 
 # Contact
-<a href="https://instagram.com/gunami" target="_blank"> <img height="50" src=https://img.shields.io/badge/Instagram-%23000000.svg?&style=round&logo=instagram&logoColor=white /> </a>
+
+<a href="https://instagram.com/gunami" target="_blank"> <img width="20%" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=round&logo=instagram&logoColor=white /> </a>
 
 # :computer: Develop Tech :computer:
 <img height="50" src="https://img.shields.io/badge/HTML-000000?style=round&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/CSS-000000?style=round&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/SCSS-000000?style=round&amp;logo=SASS&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/JQuery-000000?style=round&amp;logo=JQuery&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/JS-000000?style=flat-round&amp;logo=JavaScript&amp;logoColor=white&amp;"/>
 
 # :art: Design Tech :art:
-<img height="50" src="https://img.shields.io/badge/PhotoShop-000000?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/Blender-000000?style=flat-square&amp;logo=Blender&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/AdobeXD-000000?style=flat-square&amp;logo=Adobe XD&amp;logoColor=white&amp;"/>
+<img height="50" src="https://img.shields.io/badge/PhotoShop-FFFFFF?style=round&amp;logo=Adobe Photoshop&amp;logoColor=black&amp;"/> <img height="50" src="https://img.shields.io/badge/Blender-FFFFFF?style=round&amp;logo=Blender&amp;logoColor=black&amp;"/> <img height="50" src="https://img.shields.io/badge/AdobeXD-FFFFFF?style=round&amp;logo=Adobe XD&amp;logoColor=black&amp;"/>
 
 ![footer](https://capsule-render.vercel.app/api?type=egg&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&section=footer)
 
