@@ -26,8 +26,7 @@
 </p>
 
 # Contact
-
-<a href="https://instagram.com/gunami" target="_blank"> <img width="20%" src=https://img.shields.io/badge/instagram-%23000000.svg?&style=round&logo=instagram&logoColor=white /> </a>
+<img height="50" src="https://img.shields.io/badge/INSTAGRAM-000000?style=round&amp;logo=INSTAGRAM&amp;logoColor=white&amp;"/>
 
 # :computer: Develop Tech :computer:
 <img height="50" src="https://img.shields.io/badge/HTML-000000?style=round&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/CSS-000000?style=round&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/SCSS-000000?style=round&amp;logo=SASS&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/JQuery-000000?style=round&amp;logo=JQuery&amp;logoColor=white&amp;"/> <img height="50" src="https://img.shields.io/badge/JS-000000?style=flat-round&amp;logo=JavaScript&amp;logoColor=white&amp;"/>
