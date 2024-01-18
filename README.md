@@ -1,8 +1,11 @@
 <div align="center">
 
-<img width="80%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbelugacurtain&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=HELLO&flat=true"/>
+
+<img height="100" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbelugacurtain&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=HELLO&flat=true"/>
+<img height="100" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugacurtain&layout=compact&langs_count=3&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000&custom_title=SI_Project&border_radius=10"/>
 
 <a href="https://github.com/belugacurtain/project">![header](https://capsule-render.vercel.app/api?text=🧐~Layout~More🖱😀&type=venom&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&fontSize=40)</a>
+
 <p>
   <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/tour/main.html" target="_blank"><img src="thumb08.jpg" width="24%" /></a>
   <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/www/main.html" target="_blank"><img src="thumb07.jpg" width="24%" /></a>
@@ -14,7 +17,6 @@
   <a target="_blank" title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2022midongsan/site/midongsan/main.html"><img src="thumb01.jpg" width="24%" /></a>
 </p>
 
-<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugacurtain&layout=compact&langs_count=3&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000&custom_title=Belugacurtain-Project&border_radius=10"/>
 
 ![header](https://capsule-render.vercel.app/api?text=😏Introduce🫠&type=egg&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&fontSize=60)
 
