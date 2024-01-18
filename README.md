@@ -20,6 +20,10 @@
 
 # :art: Design Tech :art:
 <img src="https://img.shields.io/badge/PhotoShop-000000?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/Blender-000000?style=flat-square&amp;logo=Blender&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/AdobeXD-000000?style=flat-square&amp;logo=Adobe XD&amp;logoColor=white&amp;"/>
-
-
 </div>
+<style type="text/css">
+    p a:nth-child(1) img{border-radius:100px 0 0 0}
+    p a:nth-child(4) img{border-radius:0 100px 0 0}
+    p a:nth-child(5) img{border-radius:0 0 0 100px}
+    p a:nth-child(8) img{border-radius:0 0 100px 0}
+</style>
