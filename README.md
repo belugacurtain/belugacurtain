@@ -16,8 +16,12 @@
 
 <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugacurtain&layout=donut&langs_count=3&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000&custom_title=Belugacurtain-Project&border_radius=10"/>
 
-# :smirking_face: introduce :melting_face:
-<img width="50%" src="PhotoView2.jpg" />
+# 😏 introduce 🫠
+## Birth : 🐶1994. 10. 11.
+#### favorite food :
+<p>
+    <img width="50%" src="PhotoView2.jpg" />
+</p>
 
 # :computer: Develop Tech :computer:
 <img src="https://img.shields.io/badge/HTML-000000?style=round&amp;logo=HTML5&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/CSS-000000?style=round&amp;logo=CSS3&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/SCSS-000000?style=round&amp;logo=SASS&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/JQuery-000000?style=round&amp;logo=JQuery&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/JS-000000?style=flat-round&amp;logo=JavaScript&amp;logoColor=white&amp;"/>
