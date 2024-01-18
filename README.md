@@ -1,5 +1,7 @@
 <div align="center">
-<img width="100%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbelugacurtain&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=HELLO&flat=true"/>
+<img width="60%" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbelugacurtain&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=HELLO&flat=true"/>
+
+<img width="60%" style="border-radius:100px" src="PhotoView2.jpg" />
 
 <a href="https://github.com/belugacurtain/project">![header](https://capsule-render.vercel.app/api?text=🧐~2020~Layout~MORE~🧐&type=shark&fontColor=FFFFFF&animation=fadeIn&color=0:FFB02E,100:000000&fontSize=40)</a>
 <p>
@@ -21,7 +23,3 @@
 # :art: Design Tech :art:
 <img src="https://img.shields.io/badge/PhotoShop-000000?style=flat-square&amp;logo=Adobe Photoshop&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/Blender-000000?style=flat-square&amp;logo=Blender&amp;logoColor=white&amp;"/> <img src="https://img.shields.io/badge/AdobeXD-000000?style=flat-square&amp;logo=Adobe XD&amp;logoColor=white&amp;"/>
 </div>
-
-<style type='text/css'>
-*{background:#fff}
-</style>
