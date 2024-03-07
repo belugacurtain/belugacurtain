@@ -4,7 +4,7 @@
 <img height="80" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbelugacurtain&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=HELLO&flat=true"/>
 <img height="80" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belugacurtain&layout=compact&langs_count=3&title_color=ffffff&text_color=ffffff&bg_color=000000&border_color=000000&custom_title=SI_Project&border_radius=10"/>
 
-<a title="View More" href="https://github.com/belugacurtain/project">![header](https://capsule-render.vercel.app/api?text=🧐~Layout~More🖱😀&type=venom&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&fontSize=40)</a>
+<a title="View More" href="https://github.com/belugacurtain/project">![header](https://capsule-render.vercel.app/api?text=🧐Project~More🖱😀&type=venom&height=200&fontColor=FFFFFF&animation=fadeIn&color=0:000000,100:FFFFFF&fontSize=40)</a>
 
 <p>
   <a title="View Page" rel="noopener noreferrer" href="https://belugacurtain.github.io/project/2023oc/site/tour/main.html"><img src="thumb08.jpg" width="24%" /></a>
@@ -25,7 +25,7 @@
 ### Favorite Food : 🍜☕🍎 Hobby : 🎧🎤🏊‍♂️ Interest : 💸📈 MBTI : ESTJ🙄
 
 <p>
-    <img width="70%" src="PhotoView2.jpg" />
+    <img width="70%" src="gunami.jpg" />
 </p>
 
 ## Contact
