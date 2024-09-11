@@ -8,7 +8,7 @@
 ### Favorite Food : 🍜☕🍎 Hobby : 🎧🎤🏊‍♂️ Interest : 💸📈 MBTI : ESTJ🙄
 
 <p>
-    <img width="50%" src="gunami.jpg" />
+    <img width="50%" src="gunami2.jpg" />
 </p>
 
 ## Contact
